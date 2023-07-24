@@ -15,6 +15,6 @@ Hello, I'm a civil engineer who wants to venture into the world of programming.
 - Hamburguer
 
 ## My hobbies
--Play guitar / Make music
--Jiu Jitsu
+- Play guitar / Make music
+- Jiu Jitsu
 
