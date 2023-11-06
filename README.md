@@ -8,7 +8,7 @@ I found in Web Development the set of things I love in music and engineering com
 
 <img alt="Top Langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick1Marques&layout=donut">
 
-
+<br/>
 
 ## 🧰 Languages and Tools
 
@@ -20,7 +20,7 @@ I found in Web Development the set of things I love in music and engineering com
 <img align="left"alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img align="left"alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img align="left"alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="left"alt="Threejs" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
+<img alt="Threejs" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
 
 <br/>
 
