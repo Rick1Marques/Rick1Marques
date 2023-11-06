@@ -6,7 +6,7 @@ I found in Web Development the set of things I love in music and engineering com
 
 <img align="left" width="47%" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rick1Marques&show_icons=true&theme=gruvbox">
 
-<img alt="Top Langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick1Marques&layout=donut">
+<img alt="Top Langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick1Marques&layout=donut&theme=gruvbox">
 
 <br/>
 
