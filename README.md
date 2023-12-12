@@ -36,7 +36,7 @@ I found in Web Development the set of things I love in music and engineering com
 
 ## 📚 Next steps
 
-<img align="left"  width="80px" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left"  width="80px" alt="postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
 <img align="left"  width="80px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
