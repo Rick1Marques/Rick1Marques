@@ -31,6 +31,8 @@ I found in Web Development the set of things I love in music and engineering com
 
 <img align="left"  width="80px" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
+<img align="left"  width="80px" alt="postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
 <img align="left"  width="80px" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <img  width="80px" alt="threejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
@@ -41,7 +43,6 @@ I found in Web Development the set of things I love in music and engineering com
 
 ## 📚 Next steps
 
-<img align="left"  width="80px" alt="postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
 <img align="left"  width="80px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
