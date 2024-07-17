@@ -4,7 +4,7 @@
 
 I found in Web Development the set of things I love in music and engineering combined. The creativity and the logic. I look forward to the path ahead of me.
 
-<img align="left" width="47%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rick1Marques&show_icons=true&theme=gruvbox">
+<img align="left" width="47%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rick1Marques&show_icons=true&hide=stars,issues&theme=gruvbox">
 
 <img alt="Top Langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick1Marques&langs_count=6&layout=donut&theme=gruvbox">
 
